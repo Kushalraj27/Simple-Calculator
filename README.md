@@ -1,1 +1,1 @@
-It is an Simple Calculator which is made by using the HTML, CSS And JAVASCRIPT
+IT IS AN SIMPE CALCULATOR WHICH IS MADE BY USING THE HTML, CSS And JAVASCRIPT
